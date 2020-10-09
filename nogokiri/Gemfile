@@ -1,0 +1,5 @@
+gem 'nokogiri'
+  gem 'pry'
+  gem 'rubocop'
+  gem 'rspec'
+  ruby '2.5.1'
